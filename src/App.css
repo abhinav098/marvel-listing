@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  background-image: url("images/account-bg.jpeg");
+}
+
+.App-logo {
+  height: 60px;
+  text-align: center;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  position: fixed;
+  display: flex;
+  width: 100%;
+  z-index: 100;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.App-body {
+  padding-top: 3em;
+}
+
+.active {
+  color: #fffab1;
+}
+
+a {
+  text-decoration: none;
+}
